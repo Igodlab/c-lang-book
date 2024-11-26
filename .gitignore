@@ -1,0 +1,12 @@
+# igonre all .* files except .gitignore
+.*
+!.gitignore
+
+*.out
+
+*.parquet
+*.map
+*.zip
+*.gz
+*.tar
+*.tgz
